@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="cloud-api-commons-1.0-SNAPSHOT1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cloud-api-commons/target/cloud-api-commons-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/cloud-api-commons/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
